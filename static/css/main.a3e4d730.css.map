@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.a3e4d730.css","mappings":"AAAA,KACI,cAAe,CACf,UAAY,CACZ,cACJ","sources":["App.css"],"sourcesContent":["body{\n    background: red;\n    color: black;\n    font-size: 16px;\n}"],"names":[],"sourceRoot":""}
